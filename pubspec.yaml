@@ -1,0 +1,58 @@
+name: timetrek
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  cloud_firestore: ^4.8.4
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.14.0
+  firebase_storage: ^11.2.4
+  firebase_messaging: ^14.6.5
+  flutter_local_notifications: ^15.1.0+1
+  google_sign_in: ^6.1.4
+  app_settings: ^5.0.0
+
+  shared_preferences: ^2.1.2
+
+  fluttertoast: ^8.0.7
+  material_design_icons_flutter: ^7.0.7296
+  image_picker: ^1.0.2
+  path_provider: ^2.0.15
+  get: ^4.6.5
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/bg/
+
+flutter_icons:
+  android: true
+  ios: true
+  adaptive_icon_background: "assets/icons/adaptive-icon.png"
+  adaptive_icon_foreground: "assets/icons/adaptive-icon.png"
+  image_path_android: "assets/icons/icon.png"
+  image_path_ios: "assets/icons/icon.png"
+  image_path_web: "assets/icons/icon.png"

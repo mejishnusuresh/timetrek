@@ -1,0 +1,38 @@
+1. adding firebase to
+        android - done
+        ios - done
+        web - done
+
+2. entry page - done but not linked
+
+3. register page - done all ok except signin with
+
+4. OPT verification page - page completed but not linked
+
+5. login page - done all ok except signin with
+
+6. home page
+    group tab - done
+    search tab - done
+    notofication tab -
+
+7. drawer - done except the user name display variable
+
+8. profile page -
+
+9. topic page -
+
+10. group page/ homepage - done
+
+11. settings page -
+
+12. logout - done
+
+13. ...............
+
+
+
+
+
+
+

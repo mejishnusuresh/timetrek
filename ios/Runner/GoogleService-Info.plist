@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>961439948799-mv4t2hksi2qkuggrvola8drbpp2d5hqi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.961439948799-mv4t2hksi2qkuggrvola8drbpp2d5hqi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>961439948799-tkj3q3npr5r50hmvrbd7ioct2sg67rjb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRGVvKCekDoHuqwxMVVSb3mxZlH-mtPCM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>961439948799</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.timetrek.timetrek</string>
+	<key>PROJECT_ID</key>
+	<string>timetrek-timetrek</string>
+	<key>STORAGE_BUCKET</key>
+	<string>timetrek-timetrek.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:961439948799:ios:f521d1fcaeda9e91a3d1ca</string>
+</dict>
+</plist>

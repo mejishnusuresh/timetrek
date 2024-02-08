@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "961439948799",
+    "project_id": "timetrek-timetrek",
+    "storage_bucket": "timetrek-timetrek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961439948799:android:5c3deb9916fcafb5a3d1ca",
+        "android_client_info": {
+          "package_name": "com.timetrek.timetrek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961439948799-tkj3q3npr5r50hmvrbd7ioct2sg67rjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timetrek.timetrek",
+            "certificate_hash": "6717e5da254fa0750160ea23185d6ba0ad7f60d0"
+          }
+        },
+        {
+          "client_id": "961439948799-fano5u2b9ksj2ccm6mu3avklgk2kqn5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuh6GDEauLHTqdDJBMyjrpJfqCOYNG_ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961439948799-fano5u2b9ksj2ccm6mu3avklgk2kqn5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961439948799-mv4t2hksi2qkuggrvola8drbpp2d5hqi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timetrek.timetrek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
